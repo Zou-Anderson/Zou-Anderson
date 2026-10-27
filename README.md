@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I'm Zouzoua Anderson (Zou)
 
-<!--
-**Zou-Anderson/Zou-Anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate self-learner based in **Côte d'Ivoire 🇨🇮**.
 
-Here are some ideas to get you started:
+I am building my foundation in programming with **Python**, driven by a clear goal: **transforming everyday problems into useful software solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ What I Do & My Vision:
+- **Building Practical Tools:** I enjoy creating standalone Windows utilities (`.exe`) designed to be simple and accessible for everyone, including non-coders.
+- **Continuous Learning:** Step by step, I'm strengthening my core programming skills and learning through hands-on building.
+- **Open-Source Mindset:** I share my projects here to get constructive feedback, learn from the developer community, and improve my work.
+
+#### 💬 Feedback & Collaboration:
+- Open to any advice, code reviews, or suggestions to help me grow as a developer!
