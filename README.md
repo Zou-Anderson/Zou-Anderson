@@ -1,13 +1,7 @@
-### Hi there 👋, I'm Zouzoua Anderson (Zou)
+# Zouzoua Anderson
 
-Welcome to my GitHub profile! I'm a passionate self-learner based in **Côte d'Ivoire 🇨🇮**.
+Self-taught developer from Côte d'Ivoire 🇨🇮. 
 
-I am building my foundation in programming with **Python**, driven by a clear goal: **transforming everyday problems into useful software solutions**.
+I use Python to build simple, standalone Windows tools (`.exe`) that solve real, practical problems for non-technical users. My focus is on turning everyday issues into accessible software.
 
-#### 🛠️ What I Do & My Vision:
-- **Building Practical Tools:** I enjoy creating standalone Windows utilities (`.exe`) designed to be simple and accessible for everyone, including non-coders.
-- **Continuous Learning:** Step by step, I'm strengthening my core programming skills and learning through hands-on building.
-- **Open-Source Mindset:** I share my projects here to get constructive feedback, learn from the developer community, and improve my work.
-
-#### 💬 Feedback & Collaboration:
-- Open to any advice, code reviews, or suggestions to help me grow as a developer!
+I share my work here to learn, get real feedback from other developers, and improve my tools step by step. Feel free to explore my repositories or leave suggestions!
